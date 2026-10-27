@@ -81,3 +81,7 @@ capturas/                Capturas reales de la app
 - **Turnos:** formulario con validaciones, franjas libres calculadas según estilista, cliente y duración, detalle y cambio de estado.
 
 Reglas principales: el salón abre de 9:00 a 19:00, cierra los domingos, y un estilista o un cliente no puede tener dos turnos programados que se solapen.
+
+## Capturas
+
+/Capturas
